@@ -33,4 +33,4 @@ DevOps & Cloud · High Performance Computing · MLOps · AI & Computer Vision ·
 - GitHub: https://github.com/98-Anas
 - YouTube: https://www.youtube.com/@ANAS-CE_CPR
 
-> زكاة العلم تعليمه ونشره - the zakat of knowledge is teaching and sharing it.
+> زكاة العلم تعليمه ونشره.
