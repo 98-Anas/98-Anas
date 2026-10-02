@@ -23,8 +23,6 @@ DevOps & Cloud · High Performance Computing · MLOps · AI & Computer Vision ·
 - **[High Performance Computing on Embedded Single-Board Computers](https://www.linkedin.com/posts/anas-ayman98_highperformancecomputing-raspberrypi-supercomputers-activity-7017960790347460608-g-xx)** - Two-node Raspberry Pi 4 cluster counting stars in high-resolution Hubble images with distributed image processing over MPI.
 - **[End-to-End Lane Keeping Assistant (Graduation Project)](https://www.linkedin.com/posts/anas-ayman98_autonomousdriving-deeplearning-lanekeeping-activity-7212031349732368385-gzQ6)** - End-to-end deep learning model for lane keeping trained with behavioral cloning on synthetic data, tested on a 1/10-scale RC car.
 - **[AWS Landing Zone Infrastructure (Terraform)](https://github.com/98-Anas/test_aws_land_zone)** - Proof-of-concept AWS Landing Zone within Free Tier limits, provisioned by GitHub Actions pipelines.
-- **[Facial Recognition on a Single-Board Computer](https://www.youtube.com/watch?v=QV1o1zaRY_k)** - Face identity extraction with OpenCV and Histogram of Oriented Gradients on a Raspberry Pi 3B+.
-- **Obstacle-Avoidance RC Robot with Classical Computer Vision** - Edge detection along forward/left/right scan lines decides the robot's direction in real time.
 
 ### 📫 Find me
 
