@@ -10,8 +10,6 @@ Combines analytical thinking with engineering rigor to transform complex data in
 
 **Portfolio:** https://98-anas.github.io
 
-*Learning in progress · DevOps, Data Science, Data Engineering, MLOps and IT project management*
-
 ### Focus
 
 Data & AI Engineering · MLOps · DevOps & Cloud · High Performance Computing · Embedded AI
