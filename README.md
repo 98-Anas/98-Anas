@@ -1,6 +1,12 @@
 <img src="banner.svg" alt="Anas Ayman Elgallad - Data & AI Engineer · MLOps, DevOps and High-Performance Computing" width="100%">
 
-Computer Engineer (Nile University, 2025), currently a Data Analyst at Nile University and a Physical AI instructor at San3a Academy. I build end-to-end data and AI systems - from data ingestion and processing to model development and reliable, scalable deployment. I combine machine learning, deep learning and computer vision (including embedded AI on edge hardware) with MLOps and DevOps practice: containerised, reproducible pipelines on Kubernetes, infrastructure as code with Terraform and Ansible, CI/CD and observability. As a DevOps intern at Fawry I built infrastructure-automation workflows, and at the Applied Innovation Center (MCIT) I supported production HPC clusters running Slurm and Bright Cluster Manager, giving me hands-on experience with distributed and high-performance computing. I also teach: as a teaching assistant at Nile University and creator of the NU Linux Bootcamp, I help students build strong Linux and DevOps foundations. I'm currently growing into technical project management through IBM's IT Project Manager program.
+Computer Engineer with a multidisciplinary background spanning Data Analysis, Data Science, Data Engineering, and Artificial Intelligence. Experienced in designing and building end-to-end data-driven systems, from data ingestion and processing to model development and scalable deployment.
+
+Skilled in Machine Learning and Deep Learning with practical exposure to Embedded AI and computer vision applications, alongside strong foundations in statistical analysis and feature engineering. Experienced in working with large-scale data systems and Big Data technologies, complemented by hands-on knowledge of distributed computing and High Performance Computing environments.
+
+Proficient in applying MLOps and DevOps practices to develop reliable, reproducible, and production-ready pipelines using modern cloud-native tools, containerization, and CI/CD workflows. Strong focus on building scalable infrastructure, automating workflows, and ensuring system observability.
+
+Combines analytical thinking with engineering rigor to transform complex data into efficient, high-impact solutions.
 
 **Portfolio:** https://98-anas.github.io
 
