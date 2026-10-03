@@ -6,6 +6,8 @@ Computer Engineer (Nile University, 2025) working across DevOps, High-Performanc
 
 **Portfolio:** https://98-anas.github.io
 
+*Learning in public · DevOps, MLOps and IT project management*
+
 ### Focus
 
 DevOps & Cloud · High Performance Computing · MLOps · AI & Computer Vision · Embedded AI
@@ -25,6 +27,15 @@ DevOps & Cloud · High Performance Computing · MLOps · AI & Computer Vision ·
 - **[High Performance Computing on Embedded Single-Board Computers](https://github.com/98-Anas/astro_image_star_counter)** - Two-node Raspberry Pi 4 cluster counting stars in high-resolution Hubble images with distributed image processing over MPI.
 - **[End-to-End Lane Keeping Assistant (Graduation Project)](https://www.linkedin.com/posts/anas-ayman98_autonomousdriving-deeplearning-lanekeeping-activity-7212031349732368385-gzQ6)** - End-to-end deep learning model for lane keeping trained with behavioral cloning on synthetic data, tested on a 1/10-scale RC car.
 - **[AWS Landing Zone Infrastructure (Terraform)](https://github.com/98-Anas/test_aws_land_zone)** - Proof-of-concept AWS Landing Zone within Free Tier limits, provisioned by GitHub Actions pipelines.
+
+### Currently learning
+
+- [IBM IT Project Manager Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-project-manager) - Coursera · IBM (in progress)
+- [DataCamp certification](https://www.datacamp.com/certification) - DataCamp (in progress)
+- [Claude courses](https://academy.claude.com/courses) - Anthropic Academy (in progress)
+- [Python - Corey Schafer](https://www.youtube.com/@coreyms/playlists) - YouTube (self-study)
+- [Machine learning & deep learning (Arabic) - Hesham Asem](https://www.youtube.com/@HeshamAsem/playlists) - YouTube (self-study)
+- [Programming courses (Arabic) - Elzero Web School](https://www.youtube.com/@ElzeroWebSchool/playlists) - YouTube (self-study)
 
 ### Teaching & community
 
