@@ -1,6 +1,6 @@
-<img src="banner.svg" alt="Anas Ayman Elgallad - DevOps & HPC Engineer · Cloud-native platforms, high-performance computing and applied AI" width="100%">
+<img src="banner.svg" alt="Anas Ayman Elgallad - Data & AI Engineer · MLOps, DevOps and High-Performance Computing" width="100%">
 
-Computer Engineer (Nile University, 2025) specializing in DevOps, High-Performance Computing and applied AI. I design and automate cloud-native infrastructure - Kubernetes, Terraform, Ansible and CI/CD pipelines - with a focus on reliability, reproducibility and observability. As a DevOps intern at Fawry I built infrastructure-automation workflows, and at the Applied Innovation Center (MCIT) I supported production HPC clusters running Slurm and Bright Cluster Manager. My project work spans highly available cloud deployments, parallel computing on embedded single-board clusters, and end-to-end deep-learning systems on edge hardware. I also teach: as a teaching assistant at Nile University and creator of the NU Linux Bootcamp, I help students build strong Linux and DevOps foundations. I am currently deepening my skills in MLOps and IT project management.
+Computer Engineer (Nile University, 2025) building end-to-end data and AI systems - from data ingestion and processing to model development and reliable, scalable deployment. I combine machine learning, deep learning and computer vision (including embedded AI on edge hardware) with MLOps and DevOps practice: containerised, reproducible pipelines on Kubernetes, infrastructure as code with Terraform and Ansible, CI/CD and observability. As a DevOps intern at Fawry I built infrastructure-automation workflows, and at the Applied Innovation Center (MCIT) I supported production HPC clusters running Slurm and Bright Cluster Manager, giving me hands-on experience with distributed and high-performance computing. I also teach: as a teaching assistant at Nile University and creator of the NU Linux Bootcamp, I help students build strong Linux and DevOps foundations. I'm currently growing into technical project management through IBM's IT Project Manager program.
 
 **Portfolio:** https://98-anas.github.io
 
@@ -8,7 +8,7 @@ Computer Engineer (Nile University, 2025) specializing in DevOps, High-Performan
 
 ### Focus
 
-DevOps & Cloud · High Performance Computing · MLOps · AI & Computer Vision · Embedded AI
+Data & AI Engineering · MLOps · DevOps & Cloud · High Performance Computing · Embedded AI
 
 ### Skills
 
@@ -41,6 +41,8 @@ DevOps & Cloud · High Performance Computing · MLOps · AI & Computer Vision ·
 
 ### Certifications
 
+- [Introduction to Project Management - IBM (Coursera)](https://www.coursera.org/account/accomplishments/verify/5K58EOZNH23Q)
+- [Delivering Quality Work with Agility - IBM (Coursera)](https://www.coursera.org/account/accomplishments/verify/NIE0DBX8PFPN)
 - [LFS162: Introduction to DevOps and Site Reliability Engineering - The Linux Foundation](https://www.credly.com/badges/b01dc870-cd02-475b-9a37-2bd930bd33e8)
 - [LFS101: Introduction to Linux - The Linux Foundation](https://www.credly.com/badges/67fe4753-ac6f-4367-b226-711eb14e330c)
 - [DevOps Fundamentals: From Zero to Practical Overview - Udemy](https://www.udemy.com/certificate/UC-d619783b-acb4-4fe5-8624-5534b3a9a623/)
