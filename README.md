@@ -1,6 +1,4 @@
-# Anas Ayman Elgallad
-
-**DevOps · HPC · AI Engineer - building reliable platforms, and teaching what I learn**
+<img src="banner.svg" alt="Anas Ayman Elgallad - DevOps · HPC · AI Engineer - building reliable platforms, and teaching what I learn" width="100%">
 
 Computer Engineer (Nile University, 2025) working across DevOps, High-Performance Computing and AI. I build cloud-native infrastructure and CI/CD pipelines, have administered production HPC clusters, and love squeezing real workloads onto small hardware - from a Raspberry Pi cluster counting stars in Hubble images to deep-learning lane keeping on an RC car - and I teach what I learn, in the spirit of زكاة العلم تعليمه ونشره
 
