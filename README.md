@@ -1,6 +1,6 @@
-<img src="banner.svg" alt="Anas Ayman Elgallad - DevOps · HPC · AI Engineer - building reliable platforms, and teaching what I learn" width="100%">
+<img src="banner.svg" alt="Anas Ayman Elgallad - DevOps & HPC Engineer · Cloud-native platforms, high-performance computing and applied AI" width="100%">
 
-Computer Engineer (Nile University, 2025) working across DevOps, High-Performance Computing and AI. I build cloud-native infrastructure and CI/CD pipelines, have administered production HPC clusters, and love squeezing real workloads onto small hardware - from a Raspberry Pi cluster counting stars in Hubble images to deep-learning lane keeping on an RC car - and I teach what I learn, in the spirit of زكاة العلم تعليمه ونشره
+Computer Engineer (Nile University, 2025) specializing in DevOps, High-Performance Computing and applied AI. I design and automate cloud-native infrastructure - Kubernetes, Terraform, Ansible and CI/CD pipelines - with a focus on reliability, reproducibility and observability. As a DevOps intern at Fawry I built infrastructure-automation workflows, and at the Applied Innovation Center (MCIT) I supported production HPC clusters running Slurm and Bright Cluster Manager. My project work spans highly available cloud deployments, parallel computing on embedded single-board clusters, and end-to-end deep-learning systems on edge hardware. I also teach: as a teaching assistant at Nile University and creator of the NU Linux Bootcamp, I help students build strong Linux and DevOps foundations. I am currently deepening my skills in MLOps and IT project management.
 
 **Portfolio:** https://98-anas.github.io
 
