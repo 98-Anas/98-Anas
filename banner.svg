@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="210" viewBox="0 0 1040 210" role="img" aria-label="Anas Ayman Elgallad - Data &amp; AI Engineer · MLOps, DevOps and High-Performance Computing">
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="210" viewBox="0 0 1040 210" role="img" aria-label="Anas Ayman Elgallad - Data &amp; AI Engineer">
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070818"/><stop offset="1" stop-color="#12123a"/></linearGradient>
 <radialGradient id="glow" cx=".82" cy=".1" r=".7"><stop offset="0" stop-color="#4fd1ff" stop-opacity=".22"/><stop offset="1" stop-color="#4fd1ff" stop-opacity="0"/></radialGradient>
@@ -13,7 +13,7 @@
 <ellipse rx="44" ry="15" fill="none" stroke="#4fd1ff" stroke-opacity=".55" stroke-width="1.2" transform="rotate(-22)"/>
 <circle r="26" fill="url(#core)"/></g>
 <text x="210" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="40" font-weight="700" fill="url(#name)">Anas Ayman Elgallad</text>
-<text x="212" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#b3b8e0">Data &amp; AI Engineer · MLOps, DevOps and High-Performance Computing</text>
-<text x="212" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.3" letter-spacing="1.2" fill="#7d83ad">Data &amp; AI Engineering  ·  MLOps  ·  DevOps &amp; Cloud  ·  High Performance Computing  ·  Embedded AI</text>
+<text x="212" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#b3b8e0">Data &amp; AI Engineer</text>
+<text x="212" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13.3" letter-spacing="1.2" fill="#7d83ad">Data &amp; AI Engineering  ·  AI XOps{ML, DL, LLMs, VLMs, Agent}  ·  DevOps &amp; Cloud  ·  High Performance Computing  ·  Embedded AI</text>
 <rect x="0.5" y="0.5" width="1039" height="209" rx="18" fill="none" stroke="#8b7bff" stroke-opacity=".25"/>
 </svg>
