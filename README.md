@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Anas Ayman Elgallad - Data & AI Engineer · MLOps, DevOps and High-Performance Computing" width="100%">
+<img src="banner.svg" alt="Anas Ayman Elgallad - Data & AI Engineer" width="100%">
 
 Computer Engineer with a multidisciplinary background spanning Data Analysis, Data Science, Data Engineering, and Artificial Intelligence. Experienced in designing and building end-to-end data-driven systems, from data ingestion and processing to model development and scalable deployment.
 
