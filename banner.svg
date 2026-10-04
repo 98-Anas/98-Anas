@@ -14,6 +14,6 @@
 <circle r="26" fill="url(#core)"/></g>
 <text x="210" y="92" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="url(#name)">Anas Ayman Elgallad</text>
 <text x="212" y="145" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" fill="#b3b8e0">Data &amp; AI Engineer</text>
-<text x="212" y="170" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="1.2" fill="#7d83ad">AI XOps{ML, DL, LLMs, VLMs, Agent}  ·  DevOps &amp; Cloud  ·  HPC  ·  Embedded AI</text>
+<text x="212" y="175" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" letter-spacing="1.2" fill="#7d83ad">AI XOps{ML, DL, LLMs, VLMs, Agent}  ·  DevOps &amp; Cloud  ·  HPC  ·  Embedded AI</text>
 <rect x="0.5" y="0.5" width="1039" height="209" rx="18" fill="none" stroke="#8b7bff" stroke-opacity=".25"/>
 </svg>
