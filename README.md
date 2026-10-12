@@ -85,5 +85,3 @@ A desktop studio for polished launch, report and lesson videos from templates, r
 - Self-study: [Corey Schafer (Python)](https://www.youtube.com/@coreyms/playlists), [Hesham Asem (machine learning and deep learning, Arabic)](https://www.youtube.com/@HeshamAsem/playlists), [Elzero Web School (programming, Arabic)](https://www.youtube.com/@ElzeroWebSchool/playlists)
 
 </details>
-
-<p align="center"><sub>زكاة العلم تعليمه ونشره · The tithe of knowledge is teaching it and sharing it.</sub></p>
